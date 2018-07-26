@@ -1,4 +1,4 @@
-# Marketing-Funnels-CRM
+# Marketing-Funnels-and-Conversion_Rates-CRM
 marketing funnels and conversion rates
 
 - Marketing funnels and conversion rates are calculated for Warby Parker.
