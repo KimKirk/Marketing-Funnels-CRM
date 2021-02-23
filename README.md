@@ -1,8 +1,8 @@
 # Marketing-Funnels-and-Conversion-Rates-CRM
-marketing funnels and conversion rates
+
 - Digital Commerce: Marketing
 
-- Marketing funnels and conversion rates are calculated for Warby Parker.
+- Marketing funnels and conversion rates are calculated for e-commerce store Warby Parker.
 - Actionable insights for conversion rates are presented.
 
 ## Disclaimer:
